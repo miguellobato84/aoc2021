@@ -3,7 +3,6 @@ import logging
 import sys
 
 from aoc import __version__
-from numpy.lib.stride_tricks import sliding_window_view
 
 __author__ = "Miguel Á. Lobato"
 __copyright__ = "Miguel Á. Lobato"
